@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "00001",
+    "name": "Round-bottom flask",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Round-bottom_flask.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00002",
+    "name": "Globe-shaped separatory funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Globe-shaped_separatory_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00003",
+    "name": "Gas bottle",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Gas_bottle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00004",
+    "name": "Gas bottle divided equally into five",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Gas_bottle_divided_equally_into_five.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00005",
+    "name": "Small test tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Small_test_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00006",
+    "name": "Large test tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Large_test_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00007",
+    "name": "Test tube (10 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00008",
+    "name": "Test tube with side tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Test_tube_with_side_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00009",
+    "name": "Beaker (100 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Beaker_(100_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00010",
+    "name": "Beaker (250 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Beaker_(250_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00011",
+    "name": "Beaker (1000 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Beaker_(1000_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00012",
+    "name": "Erlenmeyer flask (100 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Erlenmeyer_flask_(100_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00013",
+    "name": "Erlenmeyer flask (250 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Erlenmeyer_flask_(250_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00014",
+    "name": "Three-necked flask",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Three-necked_flask.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00015",
+    "name": "Long-neck funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Long-neck_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00016",
+    "name": "Small funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Small_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00017",
+    "name": "Funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00018",
+    "name": "Wash bottle (250 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Wash_bottle_(250_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00019",
+    "name": "Florence flask",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Florence_flask.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00020",
+    "name": "Distilling flask",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Distilling_flask.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00021",
+    "name": "Narrow-mouth bottle",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Narrow-mouth_bottle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00022",
+    "name": "Wide-mouth bottle",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Wide-mouth_bottle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00023",
+    "name": "Kipp's apparatus",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Kipp's_apparatus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00024",
+    "name": "Pear-shaped separatory funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Pear-shaped_separatory_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00025",
+    "name": "Globe-shaped separatory funnel with balanced air pressure",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Globe-shaped_separatory_funnel_with_balanced_air_pressure.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00026",
+    "name": "Straight separatory funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Straight_separatory_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00027",
+    "name": "Dropping funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Dropping_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00028",
+    "name": "Constant pressure dropping funnel",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Constant_pressure_dropping_funnel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00029",
+    "name": "U-tube with side arms",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/U-tube_with_side_arms.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00030",
+    "name": "U-tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/U-tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00031",
+    "name": "U-tube for measuring gas volume",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/U-tube_for_measuring_gas_volume.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00032",
+    "name": "Copper sulfate filled U-tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Copper_sulfate_filled_U-tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00033",
+    "name": "Crucible",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Crucible.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00034",
+    "name": "Small evaporating dish",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Small_evaporating_dish.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00035",
+    "name": "Large evaporating dish",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Large_evaporating_dish.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00036",
+    "name": "Watch glass",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Watch_glass.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00037",
+    "name": "Spot plate",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Spot_plate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00038",
+    "name": "Mortar and pestle",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Mortar_and_pestle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00039",
+    "name": "Graduated cylinder (10 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Graduated_cylinder_(10_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00040",
+    "name": "Graduated cylinder (50 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Graduated_cylinder_(50_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00041",
+    "name": "Graduated cylinder (100 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Graduated_cylinder_(100_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00042",
+    "name": "Volumetric flask (50 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Volumetric_flask_(50_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00043",
+    "name": "Volumetric flask (100 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Volumetric_flask_(100_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00044",
+    "name": "Volumetric flask (250 mL)",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Volumetric_flask_(250_mL).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00045",
+    "name": "Hard-glass tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Hard-glass_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00046",
+    "name": "Large hard-glass tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Large_hard-glass_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00047",
+    "name": "Acid burette",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Acid_burette.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00048",
+    "name": "Base burette",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Base_burette.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00049",
+    "name": "Drying bottle with concentrated sulfuric acid",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Drying_bottle_with_concentrated_sulfuric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00050",
+    "name": "Soda lime-filled U-tube",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Soda_lime-filled_U-tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00051",
+    "name": "Carbon dioxide bottle",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Carbon_dioxide_bottle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00052",
+    "name": "84 Disinfectant",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/84_Disinfectant.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00053",
+    "name": "Toilet cleaner",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Toilet_cleaner.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00054",
+    "name": "Insulated beaker",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Insulated_beaker.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00055",
+    "name": "Insulated beaker set",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Insulated_beaker_set.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00056",
+    "name": "Waste container",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Waste_container.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00057",
+    "name": "Waste cup",
+    "category": "Reaction vessel",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/reactor/Waste_cup.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00058",
+    "name": "50-mL plastic syringe",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/50-mL_plastic_syringe.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00059",
+    "name": "50-mL syringe filled with nitrogen dioxide",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/50-mL_syringe_filled_with_nitrogen_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00060",
+    "name": "60-degree conduit",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/60-degree_conduit.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00061",
+    "name": "90-degree conduit (not separable)",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/90-degree_conduit_(not_separable).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00062",
+    "name": "90-degree glass conduit",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/90-degree_glass_conduit.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00063",
+    "name": "90-degree glass tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/90-degree_glass_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00064",
+    "name": "Alcohol blast burner",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Alcohol_blast_burner.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00065",
+    "name": "Alcohol burner",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Alcohol_burner.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00066",
+    "name": "Alcohol burner cap",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Alcohol_burner_cap.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00067",
+    "name": "Alcohol spray bottle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Alcohol_spray_bottle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00068",
+    "name": "Allihn condenser",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Allihn_condenser.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00069",
+    "name": "Allihn condenser apparatus",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Allihn_condenser_apparatus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00070",
+    "name": "Argil wire gauze",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Argil_wire_gauze.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00071",
+    "name": "Balance and weights",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Balance_and_weights.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00072",
+    "name": "Balloon",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Balloon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00073",
+    "name": "Bendable conduit",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Bendable_conduit.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00074",
+    "name": "Bent receiver adapter",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Bent_receiver_adapter.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00075",
+    "name": "Bent-nozzle metal tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Bent-nozzle_metal_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00076",
+    "name": "Blue litmus paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Blue_litmus_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00077",
+    "name": "Brass sheet",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Brass_sheet.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00078",
+    "name": "Bunsen burner",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Bunsen_burner.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00079",
+    "name": "Burette clamp",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Burette_clamp.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00080",
+    "name": "Candle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Candle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00081",
+    "name": "Clamp (side view)",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Clamp_(side_view).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00082",
+    "name": "Clamp stand",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Clamp_stand.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00083",
+    "name": "Clay triangle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Clay_triangle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00084",
+    "name": "Cloth strip",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Cloth_strip.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00085",
+    "name": "Cobalt blue glass",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Cobalt_blue_glass.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00086",
+    "name": "Combustion spoon",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Combustion_spoon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00087",
+    "name": "Combustion spoon with hole",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Combustion_spoon_with_hole.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00088",
+    "name": "Copper wire",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Copper_wire.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00089",
+    "name": "Cotton",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Cotton.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00090",
+    "name": "Crucible tongs",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Crucible_tongs.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00091",
+    "name": "Rubber dropper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Rubber_dropper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00092",
+    "name": "Electric heating mantle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Electric_heating_mantle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00093",
+    "name": "Electronic balance",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Electronic_balance.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00094",
+    "name": "Fireworks",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Fireworks.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00095",
+    "name": "Flatjaw pinchcock",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Flatjaw_pinchcock.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00096",
+    "name": "Forceps",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Forceps.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00097",
+    "name": "Glass rod",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Glass_rod.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00098",
+    "name": "Glass slide",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Glass_slide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00099",
+    "name": "High-temperature thermometer",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/High-temperature_thermometer.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00100",
+    "name": "Hoffman electrolyzer",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Hoffman_electrolyzer.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00101",
+    "name": "Hot towel",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Hot_towel.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00102",
+    "name": "Ice water bath",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Ice_water_bath.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00103",
+    "name": "Iron clamp",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Iron_clamp.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00104",
+    "name": "Iron wire",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Iron_wire.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00105",
+    "name": "Iron wire with wood strip",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Iron_wire_with_wood_strip.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00106",
+    "name": "Knife",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Knife.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00107",
+    "name": "Lab jack",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Lab_jack.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00108",
+    "name": "Ladder-shaped iron sheet",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Ladder-shaped_iron_sheet.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00109",
+    "name": "Large plastic syringe",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Large_plastic_syringe.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00110",
+    "name": "Laser pointer",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Laser_pointer.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00111",
+    "name": "Liebig condenser apparatus",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Liebig_condenser_apparatus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00112",
+    "name": "Litmus paper flower",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Litmus_paper_flower.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00113",
+    "name": "Long rubber dropper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Long_rubber_dropper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00114",
+    "name": "Magnesium strip",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Magnesium_strip.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00115",
+    "name": "Magnifier",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Magnifier.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00116",
+    "name": "Match",
+    "category": "Assistive devices",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00117",
+    "name": "Narrow-nozzle metal tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Narrow-nozzle_metal_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00118",
+    "name": "Nitrogen dioxide equilibrium balloon",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Nitrogen_dioxide_equilibrium_balloon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00119",
+    "name": "Paper scoopulas",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Paper_scoopulas.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00120",
+    "name": "pH meter",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/pH_meter.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00121",
+    "name": "pH paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/pH_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00122",
+    "name": "Phenolphthalein paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Phenolphthalein_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00123",
+    "name": "Phosphorus pentoxide drying tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Phosphorus_pentoxide_drying_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00124",
+    "name": "Plastic partition",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Plastic_partition.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00125",
+    "name": "Plastic syringe",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Plastic_syringe.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00126",
+    "name": "Platinum wire",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Platinum_wire.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00127",
+    "name": "Qualitative filter paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Qualitative_filter_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00128",
+    "name": "Red litmus paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Red_litmus_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00129",
+    "name": "Retort stand",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Retort_stand.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00130",
+    "name": "Ring clamp",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Ring_clamp.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00131",
+    "name": "Ring glass stirring rod",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Ring_glass_stirring_rod.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00132",
+    "name": "Ring stand",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Ring_stand.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00133",
+    "name": "Rubber stopper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Rubber_stopper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00134",
+    "name": "Rubber stopper (with conduit)",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Rubber_stopper_(with_conduit).png",
+    "hasIcon": true
+  },
+  {
+    "id": "00135",
+    "name": "Rubber tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Rubber_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00136",
+    "name": "Sand paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Sand_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00137",
+    "name": "Scissors",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Scissors.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00138",
+    "name": "Sink",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Sink.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00139",
+    "name": "Soda lime drying tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Soda_lime_drying_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00140",
+    "name": "Spatula",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Spatula.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00141",
+    "name": "Spherical drying tube",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Spherical_drying_tube.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00142",
+    "name": "Starch-potassium iodide paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Starch-potassium_iodide_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00143",
+    "name": "Steamed bread",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Steamed_bread.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00144",
+    "name": "Stopwatch",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Stopwatch.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00145",
+    "name": "Straight conduit",
+    "category": "Assistive devices",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00146",
+    "name": "Syringe needle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Syringe_needle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00147",
+    "name": "T-shaped glass conduit",
+    "category": "Assistive devices",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00148",
+    "name": "Test tube brush",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Test_tube_brush.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00149",
+    "name": "Test tube clamp",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Test_tube_clamp.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00150",
+    "name": "Test tube rack",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Test_tube_rack.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00151",
+    "name": "Thermometer",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Thermometer.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00152",
+    "name": "Tripod",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Tripod.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00153",
+    "name": "Water bath kettle",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Water_bath_kettle.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00154",
+    "name": "Weighing paper",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Weighing_paper.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00155",
+    "name": "Wood block",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Wood_block.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00156",
+    "name": "Wood cap",
+    "category": "Assistive devices",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Reaction%20vessel/Wood_cap.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00157",
+    "name": "Y-shaped glass conduit",
+    "category": "Assistive devices",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00158",
+    "name": "Copper oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00159",
+    "name": "Iron powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Iron_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00160",
+    "name": "Potassium chlorate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_chlorate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00161",
+    "name": "Potassium permanganate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_permanganate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00162",
+    "name": "Manganese dioxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Manganese_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00163",
+    "name": "Sodium",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00164",
+    "name": "Sodium carbonate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_carbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00165",
+    "name": "Sodium peroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_peroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00166",
+    "name": "Sucrose",
+    "category": "Solid chemical",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00167",
+    "name": "Iron nail",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Iron_nail.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00168",
+    "name": "Thermite",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Thermite.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00169",
+    "name": "Sand",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sand.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00170",
+    "name": "Silver",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00171",
+    "name": "Silver sulfide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver_sulfide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00172",
+    "name": "Silver sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00173",
+    "name": "Silver chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00174",
+    "name": "Silver iodide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver_iodide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00175",
+    "name": "Silver nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silver_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00176",
+    "name": "Aluminum powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00177",
+    "name": "Alumina",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Alumina.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00178",
+    "name": "Aluminum sulfide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_sulfide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00179",
+    "name": "Aluminum sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00180",
+    "name": "Aluminum bromide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_bromide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00181",
+    "name": "Aluminum chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00182",
+    "name": "Aluminum nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00183",
+    "name": "Aluminum hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Aluminum_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00184",
+    "name": "Barium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00185",
+    "name": "Barium carbonate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_carbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00186",
+    "name": "Barium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00187",
+    "name": "Barium oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00188",
+    "name": "Barium hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00189",
+    "name": "Barium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Barium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00190",
+    "name": "Charcoal",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Charcoal.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00191",
+    "name": "Calcium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00192",
+    "name": "Calcium carbonate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_carbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00193",
+    "name": "Calcium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00194",
+    "name": "Calcium oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00195",
+    "name": "Calcium hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00196",
+    "name": "Calcium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Calcium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00197",
+    "name": "Copper powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00198",
+    "name": "Cuprous sulfide",
+    "category": "Solid chemical",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00199",
+    "name": "Copper chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00200",
+    "name": "Copper nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00201",
+    "name": "Copper hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00202",
+    "name": "Copper sulfate pentahydrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_sulfate_pentahydrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00203",
+    "name": "Copper sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Copper_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00204",
+    "name": "Iron oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Iron_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00205",
+    "name": "Ferric sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferric_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00206",
+    "name": "Ferric oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferric_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00207",
+    "name": "Ferrous chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferrous_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00208",
+    "name": "Ferric chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferric_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00209",
+    "name": "Ferrous nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferrous_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00210",
+    "name": "Ferric nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferric_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00211",
+    "name": "Ferrous oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferrous_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00212",
+    "name": "Ferrous hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferrous_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00213",
+    "name": "Ferric hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "",
+    "hasIcon": false
+  },
+  {
+    "id": "00214",
+    "name": "Ferrous sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ferrous_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00215",
+    "name": "Mercuric oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Mercuric_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00216",
+    "name": "Iodine",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Iodine.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00217",
+    "name": "Potassium manganate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_manganate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00218",
+    "name": "Potassium oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00219",
+    "name": "Potassium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00220",
+    "name": "Potassium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00221",
+    "name": "Potassium iodide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_iodide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00222",
+    "name": "Potassium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00223",
+    "name": "Potassium hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00224",
+    "name": "Potassium ferrocyanide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Potassium_ferrocyanide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00225",
+    "name": "Magnesium powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00226",
+    "name": "Magnesium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00227",
+    "name": "Magnesium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00228",
+    "name": "Magnesium oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00229",
+    "name": "Magnesium hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00230",
+    "name": "Magnesium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00231",
+    "name": "Manganese chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Manganese_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00232",
+    "name": "Magnesium carbonate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Magnesium_carbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00233",
+    "name": "Sodium oxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00234",
+    "name": "Sodium sulfite",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_sulfite.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00235",
+    "name": "Sodium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00236",
+    "name": "Sodium meta-aluminate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_meta-aluminate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00237",
+    "name": "Sodium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00238",
+    "name": "Sodium bicarbonate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_bicarbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00239",
+    "name": "Sodium bisulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_bisulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00240",
+    "name": "Sodium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00241",
+    "name": "Sodium hydroxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sodium_hydroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00242",
+    "name": "Ammonium sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ammonium_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00243",
+    "name": "Ammonium chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ammonium_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00244",
+    "name": "Ammonium nitrate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Ammonium_nitrate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00245",
+    "name": "Red phosphorus",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Red_phosphorus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00246",
+    "name": "White phosphorus",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/White_phosphorus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00247",
+    "name": "Phosphorus pentoxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Phosphorus_pentoxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00248",
+    "name": "Lead",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Lead.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00249",
+    "name": "Lead chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Lead_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00250",
+    "name": "Lead dioxide",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Lead_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00251",
+    "name": "Platinum powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Platinum_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00252",
+    "name": "Sulfur powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Sulfur_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00253",
+    "name": "Silicon",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Silicon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00254",
+    "name": "Zinc powder",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Zinc_powder.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00255",
+    "name": "Zinc chloride",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Zinc_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00256",
+    "name": "Zinc sulfate",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Zinc_sulfate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00257",
+    "name": "Marble rocks",
+    "category": "Solid chemical",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Solid%20chemical/Marble_rocks.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00258",
+    "name": "Distilled water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Distilled_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00259",
+    "name": "Copper sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Copper_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00260",
+    "name": "Sodium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00261",
+    "name": "Sodium hydroxide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_hydroxide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00262",
+    "name": "Concentrated sulfuric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Concentrated_sulfuric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00263",
+    "name": "Dilute sulfuric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Dilute_sulfuric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00264",
+    "name": "Dilute hydrochloric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Dilute_hydrochloric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00265",
+    "name": "Phenolphthalein",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Phenolphthalein.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00266",
+    "name": "Clear lime water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Clear_lime_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00267",
+    "name": "Soapy water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Soapy_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00268",
+    "name": "Litmus",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Litmus.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00269",
+    "name": "Silver nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Silver_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00270",
+    "name": "Aluminum sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Aluminum_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00271",
+    "name": "Aluminum chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Aluminum_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00272",
+    "name": "Aluminum nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Aluminum_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00273",
+    "name": "Barium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Barium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00274",
+    "name": "Barium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Barium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00275",
+    "name": "Barium hydroxide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Barium_hydroxide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00276",
+    "name": "Bromine",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Bromine.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00277",
+    "name": "Calcium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Calcium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00278",
+    "name": "Calcium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Calcium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00279",
+    "name": "Carbon tetrachloride",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Carbon_tetrachloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00280",
+    "name": "Copper chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Copper_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00281",
+    "name": "Copper nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Copper_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00282",
+    "name": "Ferrous sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferrous_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00283",
+    "name": "Ferrous chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferrous_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00284",
+    "name": "Ferric chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferric_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00285",
+    "name": "Ferrous nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferrous_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00286",
+    "name": "Ferric nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferric_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00287",
+    "name": "Ferric sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ferric_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00288",
+    "name": "Sulfur trioxide",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sulfur_trioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00289",
+    "name": "Sulfite",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sulfite.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00290",
+    "name": "Sulfuric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sulfuric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00291",
+    "name": "Potassium manganate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_manganate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00292",
+    "name": "Potassium sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00293",
+    "name": "Potassium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00294",
+    "name": "Potassium chlorate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_chlorate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00295",
+    "name": "Potassium iodide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_iodide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00296",
+    "name": "Potassium permanganate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_permanganate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00297",
+    "name": "Potassium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00298",
+    "name": "Potassium hydroxide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_hydroxide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00299",
+    "name": "Potassium ferrocyanide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_ferrocyanide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00300",
+    "name": "Magnesium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Magnesium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00301",
+    "name": "Magnesium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Magnesium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00302",
+    "name": "Magnesium sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Magnesium_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00303",
+    "name": "Manganese chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Manganese_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00304",
+    "name": "Sodium carbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_carbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00305",
+    "name": "Sodium sulfite solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_sulfite_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00306",
+    "name": "Sodium sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00307",
+    "name": "Sodium meta-aluminate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_meta-aluminate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00308",
+    "name": "Sodium bicarbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_bicarbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00309",
+    "name": "Sodium bisulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_bisulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00310",
+    "name": "Sodium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00311",
+    "name": "Ammonium sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonium_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00312",
+    "name": "Ammonium chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonium_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00313",
+    "name": "Ammonium nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonium_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00314",
+    "name": "Zinc chloride solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Zinc_chloride_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00315",
+    "name": "Zinc sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Zinc_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00316",
+    "name": "Sucrose solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sucrose_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00317",
+    "name": "Concentrated hydrochloric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Concentrated_hydrochloric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00318",
+    "name": "Concentrated nitric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Concentrated_nitric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00319",
+    "name": "Dilute nitric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Dilute_nitric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00320",
+    "name": "Dilute acetic acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Dilute_acetic_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00321",
+    "name": "Sodium silicate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_silicate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00322",
+    "name": "Ammonia water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonia_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00323",
+    "name": "Calcium bicarbonate",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Calcium_bicarbonate.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00324",
+    "name": "Sodium acetate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_acetate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00325",
+    "name": "Sodium sulfide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_sulfide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00326",
+    "name": "Sodium hydrosulfide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_hydrosulfide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00327",
+    "name": "Ammonium bicarbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonium_bicarbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00328",
+    "name": "Ammonium carbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ammonium_carbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00329",
+    "name": "Iodine water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Iodine_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00330",
+    "name": "Sodium thiosulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_thiosulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00331",
+    "name": "Hydrogen peroxide",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Hydrogen_peroxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00332",
+    "name": "Manganese sulfate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Manganese_sulfate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00333",
+    "name": "Potassium bichromate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_bichromate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00334",
+    "name": "Potassium thiocyanate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_thiocyanate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00335",
+    "name": "Ethanol",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Ethanol.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00336",
+    "name": "Sodium hypochlorite",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_hypochlorite.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00337",
+    "name": "Starch solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Starch_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00338",
+    "name": "Boric acid solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Boric_acid_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00339",
+    "name": "Sodium iodide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_iodide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00340",
+    "name": "Sodium bromide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Sodium_bromide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00341",
+    "name": "Chlorine water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Chlorine_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00342",
+    "name": "Bromine water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Bromine_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00343",
+    "name": "Fuchsin solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Fuchsin_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00344",
+    "name": "Hard water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Hard_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00345",
+    "name": "Tap water",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Tap_water.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00346",
+    "name": "Glucose solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Glucose_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00347",
+    "name": "Acetic acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Acetic_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00348",
+    "name": "Barium bicarbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Barium_bicarbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00349",
+    "name": "Calcium hypochlorite solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Calcium_hypochlorite_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00350",
+    "name": "Potassium bicarbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_bicarbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00351",
+    "name": "Potassium carbonate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Potassium_carbonate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00352",
+    "name": "Phosphoric acid",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Phosphoric_acid.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00353",
+    "name": "Lead nitrate solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Lead_nitrate_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00354",
+    "name": "Methyl orange",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Methyl_orange.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00355",
+    "name": "Methyl red",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Methyl_red.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00356",
+    "name": "Hydrogen bromide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Hydrogen_bromide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00357",
+    "name": "Hydrogen iodide solution",
+    "category": "Liquid chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Liquid%20chemicals/Hydrogen_iodide_solution.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00358",
+    "name": "Carbon monoxide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Carbon_monoxide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00359",
+    "name": "Carbon dioxide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Carbon_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00360",
+    "name": "Hydrogen gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00361",
+    "name": "Ammonia gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Ammonia_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00362",
+    "name": "Oxygen",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Oxygen.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00363",
+    "name": "Oxygen gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Oxygen_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00364",
+    "name": "Acetylene gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Acetylene_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00365",
+    "name": "Argon",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Argon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00366",
+    "name": "Argon gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Argon_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00367",
+    "name": "Chlorine",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Chlorine.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00368",
+    "name": "Chlorine gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Chlorine_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00369",
+    "name": "Carbon monoxide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Carbon_monoxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00370",
+    "name": "Carbon dioxide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Carbon_dioxide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00371",
+    "name": "Fluorine",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Fluorine.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00372",
+    "name": "Fluorine gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Fluorine_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00373",
+    "name": "Hydrogen",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00374",
+    "name": "Hydrogen sulfide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_sulfide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00375",
+    "name": "Hydrogen sulfide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_sulfide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00376",
+    "name": "Hydrogen chloride",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_chloride.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00377",
+    "name": "Hydrogen chloride gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_chloride_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00378",
+    "name": "Helium",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Helium.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00379",
+    "name": "Helium gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Helium_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00380",
+    "name": "Nitrogen",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitrogen.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00381",
+    "name": "Nitrogen gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitrogen_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00382",
+    "name": "Neon",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Neon.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00383",
+    "name": "Neon gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Neon_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00384",
+    "name": "Ammonia",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Ammonia.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00385",
+    "name": "Nitric oxide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitric_oxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00386",
+    "name": "Nitric oxide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitric_oxide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00387",
+    "name": "Nitrogen dioxide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitrogen_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00388",
+    "name": "Nitric dioxide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Nitric_dioxide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00389",
+    "name": "Sulfur dioxide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Sulfur_dioxide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00390",
+    "name": "Sulfur dioxide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Sulfur_dioxide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00391",
+    "name": "Air",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Air.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00392",
+    "name": "Air filled gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Air_filled_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00393",
+    "name": "Methane",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Methane.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00394",
+    "name": "Methane gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Methane_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00395",
+    "name": "Acetylene",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Acetylene.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00396",
+    "name": "Ethylene",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Ethylene.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00397",
+    "name": "Ethylene gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Ethylene_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00398",
+    "name": "Gas mixture gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Gas_mixture_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00399",
+    "name": "Hydrogen bromide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_bromide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00400",
+    "name": "Hydrogen bromide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_bromide_gasbag.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00401",
+    "name": "Hydrogen iodide",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_iodide.png",
+    "hasIcon": true
+  },
+  {
+    "id": "00402",
+    "name": "Hydrogen iodide gasbag",
+    "category": "Gas chemicals",
+    "imageUrl": "https://raw.githubusercontent.com/miragestudio45/dataChemistry-viewer/main/Icon%20Chemistry%202/Gas%20chemicals/Hydrogen_iodide_gasbag.png",
+    "hasIcon": true
+  }
+]
